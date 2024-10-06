@@ -3,7 +3,7 @@
 &MOTION
  &MD
    ENSEMBLE NVT  ! sampling the canonical ensemble, accurate properties might need NVE
-   TEMPERATURE [K] 50
+   TEMPERATURE [K] 500
    TIMESTEP [fs] 0.5
    STEPS 100000
    # GLE thermostat as generated at http://epfl-cosmo.github.io/gle4md 
