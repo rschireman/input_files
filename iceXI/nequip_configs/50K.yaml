@@ -23,7 +23,7 @@ model_builders:
  - RescaleEnergyEtc
 
 # radial cutoff in length units
-r_max: 4.0
+r_max: 5.0
 
 # average number of neighbors in an environment is used to normalize the sum, auto precomputed it automitcally 
 avg_num_neighbors: auto
